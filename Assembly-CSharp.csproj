@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DEB95D59-7CED-D34C-FDC9-5F57AC3149C8}</ProjectGuid>
+    <ProjectGuid>{CD71B4F4-C1FE-604D-DB32-95537526676E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -47,16 +47,20 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\_Script\ArriveGoal.cs" />
+     <Compile Include="Assets\_Script\AudioPlay.cs" />
      <Compile Include="Assets\_Script\BestGrades.cs" />
      <Compile Include="Assets\_Script\BoxMove.cs" />
      <Compile Include="Assets\_Script\CameraMove.cs" />
      <Compile Include="Assets\_Script\HideMenu.cs" />
+     <Compile Include="Assets\_Script\ResetScores.cs" />
      <Compile Include="Assets\_Script\RotateBySelf.cs" />
+     <Compile Include="Assets\_Script\musicSlider.cs" />
      <Compile Include="Assets\_Script\platformUpDown.cs" />
      <Compile Include="Assets\_Script\sceneChange\Level1Scene.cs" />
      <Compile Include="Assets\_Script\sceneChange\Level2Scene.cs" />
      <Compile Include="Assets\_Script\sceneChange\Level3Scene.cs" />
      <Compile Include="Assets\_Script\sceneChange\MainScene.cs" />
+     <Compile Include="Assets\_Script\sceneChange\OptionScene.cs" />
      <Compile Include="Assets\_Script\sceneChange\SelectScene.cs" />
      <None Include="Assets\_Resource\_Shader\Unlit Coloured Texture.txt" />
      <None Include="Assets\_Resource\_Shader\Hadyn Light Rim.txt" />

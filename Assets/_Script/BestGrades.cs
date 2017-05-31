@@ -11,7 +11,6 @@ public class BestGrades : MonoBehaviour {
 	void Start () {
 		//获取按钮上的text
 		Text text = selectText.GetComponent<Text> ();
-		int best = PlayerPrefs.GetInt (bestSceneName, 0);
 		if (PlayerPrefs.HasKey (bestSceneName)) {
 			text.text = "最佳:" + PlayerPrefs.GetInt (bestSceneName, 0).ToString ();
 		} else {
