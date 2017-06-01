@@ -1,8 +1,16 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Script/BoxMove.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Script/musicSlider.cs">
     <Files>
-      <File FileName="Assets/_Script/BoxMove.cs" Line="63" Column="62" />
+      <File FileName="Assets/_Script/ResetScores.cs" Line="17" Column="27" />
+      <File FileName="Assets/_Script/BoxMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Script/BestGrades.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Script/musicSlider.cs" Line="8" Column="32" />
+      <File FileName="Assets/_Script/sceneChange/MainScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Script/sceneChange/OptionScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Script/BGAudioPlay.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Script/ButtonAudioPlay.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Script/QuitGame.cs" Line="18" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

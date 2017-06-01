@@ -47,11 +47,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\_Script\ArriveGoal.cs" />
-     <Compile Include="Assets\_Script\AudioPlay.cs" />
+     <Compile Include="Assets\_Script\BGAudioPlay.cs" />
      <Compile Include="Assets\_Script\BestGrades.cs" />
      <Compile Include="Assets\_Script\BoxMove.cs" />
+     <Compile Include="Assets\_Script\ButtonAudioPlay.cs" />
      <Compile Include="Assets\_Script\CameraMove.cs" />
      <Compile Include="Assets\_Script\HideMenu.cs" />
+     <Compile Include="Assets\_Script\QuitGame.cs" />
      <Compile Include="Assets\_Script\ResetScores.cs" />
      <Compile Include="Assets\_Script\RotateBySelf.cs" />
      <Compile Include="Assets\_Script\musicSlider.cs" />

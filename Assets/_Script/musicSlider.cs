@@ -7,7 +7,8 @@ public class musicSlider : MonoBehaviour {
 	public Slider VolumeSlider;
 	// Use this for initialization
 	void Start () {
-
+		BGSound = FindObjectOfType (typeof(AudioSource))as AudioSource;
+		VolumeSlider.value = BGSound.volume;
 	}
 	
 	// Update is called once per frame
